@@ -13,3 +13,5 @@ last change
 dev/master change
 
 rebase -i test 1st change from iss
+
+no merge message iss 1st
