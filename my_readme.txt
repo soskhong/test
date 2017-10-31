@@ -11,3 +11,5 @@ last change
 4th and last change
 
 dev/master change
+
+rebase -i test 1st change from iss
